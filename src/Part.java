@@ -6,7 +6,7 @@ public class Part {
     //主方法 权限修饰符 静态修饰符 返回值修饰符
     public static void main(String[] args){
         final int NUMBER;       //声明int型常量
-        NUMBER = 1245;          //对常量赋值
+        NUMBER = 1245;          //常量赋值
         age = 23;               //再次对变量进行赋值
         //NUMBER = 1234         //错误的代码，因为NUMBER是常量，只能进行一次赋值
         System.out.println("常量PI的值：" + PI);
