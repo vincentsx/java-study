@@ -1,4 +1,4 @@
-    //创建类
+    //创建类 while循环
 public class GetSum {
     //主方法 权限修饰符 静态修饰符 返回值修饰符
     public static void main(String[] args) throws Exception {
