@@ -10,3 +10,10 @@ public class Number {
         System.out.println("结果为：" + result);             //将以上变量相加的结果输出
     }
 }
+/**
+ * 浮点类型
+ * float  32位
+ * double 64位
+ * 在默认情况下，小数都被看做double类型，若使用float型小数，则需要在小数后面添加f，
+ * 如果不加，会被认为是double型
+ */
