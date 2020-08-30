@@ -61,13 +61,11 @@
  * 使用while循环语句计算1+1/2！+1/3！+1/4！+...+1/20！
  */
 package ProcessControl;
-//导入包
-import java.util.Scanner;
 //创建类
 public class factorial{
     //主方法 权限修饰符 静态修饰符 返回值修饰符
     public static void main(String[] args) throws Exception {
-        double sum = 1, number;
+        double sum = 1;
         int num = 2;
         while(num <= 20){
             int test = num;
@@ -76,8 +74,7 @@ public class factorial{
                 test--;
                 temp = temp*test;
             }
-            number = 1.0/temp;
-            sum += number;
+            sum += 1.0/temp;
             num++;
         }
         System.out.println("1 + 1/2! + 1/3! +...+ 1/20! = " + sum);
