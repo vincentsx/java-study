@@ -14,5 +14,6 @@ public class EvenOdd {
         }else{
             System.out.println(+ num + "是奇数");
         }
+        input.close();
     }
 }
