@@ -27,5 +27,6 @@ public class rhombus {
             }
             System.out.print("\n");
         }
+        input.close();
     }
 }
