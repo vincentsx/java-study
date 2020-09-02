@@ -4,7 +4,6 @@
 package ProcessControl;
 import java.util.Scanner;
 public class EvenOdd {
-    //用户输入数组
     public static void main(String[] args) {
         int num;
         System.out.println("请输入一个整数");
