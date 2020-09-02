@@ -1,5 +1,8 @@
 /**
  * 冒泡排序
+ * @author  Vincents
+ * @url     https://vincents.top
+ * @time    2020/09/02
  */
 package ArraySortingAlgorithm;
 //导入类
