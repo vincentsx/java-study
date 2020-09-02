@@ -1,5 +1,5 @@
 /**
- * 直接选择排序
+ * 直接选择排序算法
  * @author  Vincents
  * @url     https://vincents.top
  * @time    2020/09/02
