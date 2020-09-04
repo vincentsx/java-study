@@ -17,6 +17,12 @@ public class replace {
         //输出原数组
         System.out.print("原数组为:");
         showArray(arr);
+        //替换数组元素
+        Arrays.fill(arr, 2, 3, "bb");
+        //输出替换后的数组
+        System.out.print("替换后的数组为:");
+        showArray(arr);
+
     }
 
     /**
