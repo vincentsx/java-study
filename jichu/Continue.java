@@ -1,4 +1,5 @@
-    //创建类 continue
+package jichu;
+  //创建类 continue
 public class Continue {
     //主方法 权限修饰符 静态修饰符 返回值修饰符
     public static void main(String[] args) {

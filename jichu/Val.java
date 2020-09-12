@@ -1,4 +1,5 @@
-    //创建类
+package jichu;
+   //创建类
 public class Val {
     static int times = 3;       //定义成员变量times
     //主方法 权限修饰符 静态修饰符 返回值修饰符

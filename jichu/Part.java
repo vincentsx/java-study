@@ -1,4 +1,5 @@
-    //创建类
+package jichu;
+  //创建类
 public class Part {
     //声明常量，此时若不对常量赋值，则会出现错误提示
     static final double PI = 3.1415;

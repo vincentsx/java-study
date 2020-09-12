@@ -1,4 +1,5 @@
-    //创建类 比较运算符
+package jichu;
+//创建类 比较运算符
 public class Compare {
     //主方法 权限修饰类 静态修饰类 返回值修饰类
     public static void main(String[] args) throws Exception {
